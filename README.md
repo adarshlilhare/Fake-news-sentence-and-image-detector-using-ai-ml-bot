@@ -1,2 +1,2 @@
-# Fake-news-sentence-and-image-detector-using-ai-ml-bot
+# Fake-ai-ml-news-sentence-and-image-detector-bot
 This code creates a Telegram bot that verifies news statements using Google Search API, minilm model(of pytorch cpu v2), and sentence-transformers and checks images for authenticity using Google Vision API,microsoft debarta v3 model. It calculates text similarity and sentiment for news, and detects AI-generated or fake images based on web entity analysis.
