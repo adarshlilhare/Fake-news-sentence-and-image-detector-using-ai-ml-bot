@@ -4,4 +4,4 @@ This code creates a Telegram bot that verifies news statements using Google Sear
 u need to install transformers,huggingface,nltk,torchfrtrace,torchrun,tqdm,normalizer,f2py,isympy using pip in cmd
 And packages like sentence_transformers,torchvision,scikit_learn,sklearn,torch,torchgen,transformers,requests,jinja2,tokenizers,sentencepiece,urllib3,mpmath,sympy,setuptools,regex,thread,PIL,packaging,pillow,networkx,idna,fsspec,filelock,certifi,scipy like packages using pip command in cmd
 or to avoid so much issue u can directly install all these by going to this folder using requirements.txt command in cmd 
-we have used minilm huggingface, pytorch cpu v2 and microsoft debartav3 models in it
+we have used minilm huggingface, pytorch cpu v2(for sentence detection) and microsoft debartav3(for image detection) models in it
